@@ -84,7 +84,6 @@ public class DatabaseTypeRegister {
             registeredDatabaseTypes.add(new HSQLDBDatabaseType());
             registeredDatabaseTypes.add(new InformixDatabaseType());
             registeredDatabaseTypes.add(new MySQLDatabaseType());
-            registeredDatabaseTypes.add(new OracleDatabaseType());
             registeredDatabaseTypes.add(new PostgreSQLDatabaseType());
             registeredDatabaseTypes.add(new SAPHANADatabaseType());
             registeredDatabaseTypes.add(new SnowflakeDatabaseType());
